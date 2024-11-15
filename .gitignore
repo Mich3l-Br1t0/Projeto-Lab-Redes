@@ -1,0 +1,6 @@
+/.vscode
+/env
+/health_monitor/health_monitor/__pycache__
+/health_monitor/db.sqlite3
+/health_monitor/base/migrations/__pycache__
+/health_monitor/base/__pycache__
